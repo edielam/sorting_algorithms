@@ -56,4 +56,4 @@
 
 ## Author
 
-- [Dagem Tsehay](https://github.com/edielam)
+- [Edward Lampoh](https://github.com/edielam)
